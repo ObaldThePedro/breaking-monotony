@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BracketingSearch", "BracketingSearch\BracketingSearch.vcxproj", "{158FB152-5F91-4D8E-83E2-55189FD92998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158FB152-5F91-4D8E-83E2-55189FD92998}.Debug|x64.ActiveCfg = Debug|x64
+		{158FB152-5F91-4D8E-83E2-55189FD92998}.Debug|x64.Build.0 = Debug|x64
+		{158FB152-5F91-4D8E-83E2-55189FD92998}.Debug|x86.ActiveCfg = Debug|Win32
+		{158FB152-5F91-4D8E-83E2-55189FD92998}.Debug|x86.Build.0 = Debug|Win32
+		{158FB152-5F91-4D8E-83E2-55189FD92998}.Release|x64.ActiveCfg = Release|x64
+		{158FB152-5F91-4D8E-83E2-55189FD92998}.Release|x64.Build.0 = Release|x64
+		{158FB152-5F91-4D8E-83E2-55189FD92998}.Release|x86.ActiveCfg = Release|Win32
+		{158FB152-5F91-4D8E-83E2-55189FD92998}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1851E9F5-1B10-412B-B537-DF51FA7B673D}
+	EndGlobalSection
+EndGlobal
